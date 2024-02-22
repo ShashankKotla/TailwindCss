@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .img-1-hover:hover {
+    content: url("../Images/IMG-4-2.webp");
+    height: 24rem;
+    width: 289px;
+} */
+.img-2-hover:hover {
+    content: url("../Images/IMG-5-2.webp");
+    height: 24rem;
+    width: 289px;
+}
+.img-3-hover:hover {
+    content: url("../Images/IMG-6-2.webp");
+    height: 24rem;
+    width: 289px;
+}
+.img-4-hover:hover {
+    content: url("../Images/IMG-3-2.webp");
+    height: 24rem;
+    width: 289px;
+}
